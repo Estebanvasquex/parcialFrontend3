@@ -1,0 +1,19 @@
+.containerForm{
+    height: 100%;
+    background-color: rebeccapurple;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.containerFormInput{
+    width: 200px;
+    height: 40px;
+    margin: 10px;
+}
